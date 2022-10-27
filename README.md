@@ -3,3 +3,7 @@
 Here you can find all of my solutions from the Programming Fundamentals with C# from Software University (SoftUni):
 
 [1. Basic syntax, conditional statements and loops - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Lab)
+
+[2. Basic syntax, conditional statements and loops - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops%20-%20Exercise)
+
+[3. Data types and veriables - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Data%20types%20and%20variables%20-%20Lab/01.Meters%20to%20kilometers)
