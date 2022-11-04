@@ -9,3 +9,5 @@ Here you can find all of my solutions from the Programming Fundamentals with C# 
 [3. Data types and veriables - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Data%20types%20and%20variables%20-%20Lab/01.Meters%20to%20kilometers)
 
 [4. Data types and veriables - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Data%20type%20and%20veriables%20-%20Exercise/Data%20types%20and%20veriables%20(exercise))
+
+[5. Arrays, foreach loop - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Arrays%2C%20foreach%20loop%20-%20Lab)
