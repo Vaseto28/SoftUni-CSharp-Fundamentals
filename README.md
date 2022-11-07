@@ -15,3 +15,5 @@ Here you can find all of my solutions from the Programming Fundamentals with C# 
 [6. Arrays, foreach loop - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Arrays%2C%20foreach%20loop%20-%20Exercise)
 
 [7. Methods - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Methods%20-%20Lab)
+
+[8. Methods - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Methods%20-%20Exercise)
