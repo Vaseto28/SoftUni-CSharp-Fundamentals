@@ -19,3 +19,5 @@ Here you can find all of my solutions from the Programming Fundamentals with C# 
 [8. Methods - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Methods%20-%20Exercise)
 
 [9. Lists - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Lists%20-%20Lab)
+
+[10. Lists - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Lists%20-%20Exercise)
