@@ -23,3 +23,5 @@ Here you can find all of my solutions from the Programming Fundamentals with C# 
 [10. Lists - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Lists%20-%20Exercise)
 
 [11. Objects and classes - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Objects%20and%20classes%20-%20Lab)
+
+[12. Objects and classes - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Objects%20and%20classes%20-%20Еxercise)
