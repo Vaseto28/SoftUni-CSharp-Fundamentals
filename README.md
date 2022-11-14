@@ -27,3 +27,5 @@ Here you can find all of my solutions from the Programming Fundamentals with C# 
 [12. Objects and classes - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Objects%20and%20classes%20-%20Еxercise)
 
 [13. Asociative arrays - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Associative%20arrays%20-%20Lab)
+
+[15. Associative arrays - More exercises](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Associative%20arrays%20-%20More%20Exercise)
