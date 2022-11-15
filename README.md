@@ -28,4 +28,6 @@ Here you can find all of my solutions from the Programming Fundamentals with C# 
 
 [13. Asociative arrays - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Associative%20arrays%20-%20Lab)
 
+[14. Associative arrays - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Associative%20Arrays%20-%20Exercise)
+
 [15. Associative arrays - More exercises](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Associative%20arrays%20-%20More%20Exercise)
