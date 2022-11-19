@@ -33,3 +33,5 @@ Here you can find all of my solutions from the Programming Fundamentals with C# 
 [15. Associative arrays - More exercises](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Associative%20arrays%20-%20More%20Exercise)
 
 [16. Text processing - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Text%20processing%20-%20Lab)
+
+[17. Text processing - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Text%20processing%20-%20Exercise)
