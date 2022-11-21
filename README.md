@@ -35,3 +35,7 @@ Here you can find all of my solutions from the Programming Fundamentals with C# 
 [16. Text processing - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Text%20processing%20-%20Lab)
 
 [17. Text processing - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Text%20processing%20-%20Exercise)
+
+[18. Regular expression - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Regex%20-%20Lab)
+
+
