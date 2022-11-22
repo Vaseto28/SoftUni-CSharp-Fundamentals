@@ -39,3 +39,5 @@ Here you can find all of my solutions from the Programming Fundamentals with C# 
 [18. Regular expression - Lab](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Regex%20-%20Lab)
 
 [19. Regular expression - Exercise](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Regex%20-%20Exercise)
+
+[18. Exam preparations](https://github.com/Vaseto28/SoftUni-CSharp-Fundamentals/tree/main/Exams)
